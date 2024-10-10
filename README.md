@@ -11,6 +11,27 @@
 - [Boilerplate](#Boilerplate)
 
 ## Wallet
+### Popular Wallets
+- [MetaMask](https://metamask.io)
+- [MyEtherWallet](https://www.myetherwallet.com)
+- [Binance Web3 Wallet](https://www.binance.com/en/web3wallet)
+- [Coinbase Wallet](https://www.coinbase.com/wallet)
+- [Trust Wallet](https://trustwallet.com)
+- [Zerion](https://zerion.io)
+- [ZenGo Wallet](https://zengo.com)
+- [Argent](https://www.argent.xyz)
+- [Rainbow](https://rainbow.me)
+- [Trezor Model T]()
+- [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s-plus)
+- [Ledger Nano X](https://shop.ledger.com/products/ledger-nano-x)
+- [Exodus](https://www.exodus.com)
+- [Phantom](https://phantom.app)
+- [Frame](https://frame.sh)
+- [Glow](https://glow.app)
+- [OKX Wallet](https://www.okx.com/web3)
+
+### with Nextjs
+- [Web3 Wallets connection using WalletConnect in Next.js](https://medium.com/@kirankumar_gonti/web3-wallets-connection-using-walletconnect-in-next-js-ee9eb97d73c4)
 
 ## Security
 
@@ -20,7 +41,7 @@
 
 ### Libraries
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - A complete, compact and simple library for Ethereum and ilk, written in TypeScript.
-- [wagmi](https://github.com/tmm/wagmi) - Reactive primitives for Ethereum apps.
+- [wagmi](https://github.com/tmm/wagmi) - We're all gonna make it! Reactive primitives for Ethereum apps. Wagmi supports the most popular and commonly-used Ethereum features out of the box with 40+ React Hooks for accounts, wallets, contracts, transactions, signing, ENS, and more.
 - [web3.js](https://github.com/ethereum/web3.js) - Web3.js is a TypeScript implementation of the Ethereum JSON RPC API and related tooling maintained by ChainSafe Systems.
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - A super tiny module for querying an IPFS node, that works in the browser and in Node.
 
