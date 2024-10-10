@@ -1,6 +1,6 @@
 # awesome-web3
 
-<p align="center">Web3관련 기술 및 유용한 링크 모음</p>
+<p align="center">Awesome Web3-related technologies and useful links</p>
 
 - [Wallet](#Wallet)
 - [Security](#Security)
