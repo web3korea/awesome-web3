@@ -3,10 +3,16 @@
 <p align="center">Awesome Web3-related technologies and useful links</p>
 
 - [Wallet](#Wallet)
+  - [Popular Wallets](#popular-wallets)
+  - [Article - with Nextjs](#articles---with-nextjs)
+- [Defi](#defi)
+- [Bridge_Swap](#bridge_swap)
 - [Security](#Security)
 - [Smart Contract](#Smart-Contract)
   - [Solidity](#Solidity)
   - [Libraries](#Libraries)
+  - [Articles](#articles)
+- [Tools](#tools)
 - [Sample Code](#Sample-Code)
 - [Boilerplate](#Boilerplate)
 
@@ -37,6 +43,10 @@
 - [MetaMask Integration with Next.js and Web3.js](https://medium.com/@javed.baloch/metamask-integration-with-next-js-and-web3-js-d05287ec9b23)
 - [Web3 Wallets connection using WalletConnect in Next.js](https://medium.com/@kirankumar_gonti/web3-wallets-connection-using-walletconnect-in-next-js-ee9eb97d73c4)
 - [Integrating WalletConnect with a Next.js App: A Step-by-Step Guide](https://blog.stackademic.com/integrating-walletconnect-with-a-next-js-app-a-step-by-step-guide-40edea910824)
+
+## Defi
+
+## Bridge_Swap
 
 ## Security
 
