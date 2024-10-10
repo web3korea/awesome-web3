@@ -31,7 +31,7 @@
 - [Glow](https://glow.app)
 - [OKX Wallet](https://www.okx.com/web3)
 
-### with Nextjs
+### Articles - with Nextjs
 - [Connecting to MetaMask with Next.js and Typescript](https://medium.com/@mansour-qaderi/connecting-to-metamask-with-next-js-and-typescript-63a294144443)
 - [How to Implement MetaMask SDK with Nextjs](https://metamask.io/news/developers/how-to-implement-metamask-sdk-with-nextjs/)
 - [MetaMask Integration with Next.js and Web3.js](https://medium.com/@javed.baloch/metamask-integration-with-next-js-and-web3-js-d05287ec9b23)
@@ -54,6 +54,8 @@
 
 ### Articles
 - [Technical Comparison: web3.js vs ethers.js](https://tatum.io/blog/web3-js-vs-ethers-js)
+
+## Tools
 
 ## Sample Code
 
