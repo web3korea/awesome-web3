@@ -2,6 +2,7 @@
 
 <p align="center">Awesome Web3-related technologies and useful links</p>
 
+- [What is Web3?](#what-is-web3)
 - [Wallet](#Wallet)
   - [Popular Wallets](#popular-wallets)
   - [Article - with Nextjs](#articles---with-nextjs)
@@ -15,6 +16,9 @@
 - [Tools](#tools)
 - [Sample Code](#Sample-Code)
 - [Boilerplate](#Boilerplate)
+
+## What is Web3?
+ - [Wikipedia - Web3](https://en.wikipedia.org/wiki/Web3)
 
 ## Wallet
 ### Popular Wallets
@@ -49,6 +53,9 @@
 ## Bridge_Swap
 
 ## Security
+### Auth
+- [Web3Auth](https://web3auth.io) - To make digital ownership and identity human-centric and accessible to everyone
+- [FastAuth: NEAR Protocol](https://wiki.near.org/overview/BOS/fast-auth) - A seamless web2 style onboarding experience that allows users to easily create an account for any app on the BOS(Blockchain Operating System) without the need for crypto.
 
 ## Smart Contract
 ### Solidity
@@ -74,3 +81,15 @@
 - [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - Fully Typescript ready NextJS components for fast building dApps without running own backend
 - [create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp) - Everything you need to create Web3 Dapps in 4 minutes. This package includes the global command to start the Create Web3 DApp CLI builder.
 - [nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡
+
+
+# Contributions Welcome!
+We welcome contributions from anyone! Please! ^^;
+
+### Please follow these guidelines:
+1. Fork the repository: Create your own branch from main.
+2. Write clear commit messages: Follow conventional commit standards (e.g., fix:, feat:).
+3. Submit Pull Requests (PRs): Ensure your PR is focused, well-documented, and tested.
+4. Code of Conduct: Be respectful and inclusive. All contributors must follow our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct#best-practices-for-maintaining-a-strong-community).
+5. Issue Reporting: Before opening an issue, ensure it hasn’t been addressed by others. Provide detailed steps to reproduce the issue.
+6. Testing: Contributions should include appropriate tests to ensure stability.
