@@ -1,21 +1,25 @@
-# awesome-web3
-
 <p align="center">Awesome Web3-related technologies and useful links</p>
+<h2 align="center"><a href="#contributions-welcome">We welcome contributions from anyone!</a></h2> 
 
-- [What is Web3?](#what-is-web3)
-- [Wallet](#Wallet)
-  - [Popular Wallets](#popular-wallets)
-  - [Article - with Nextjs](#articles---with-nextjs)
-- [Defi](#defi)
-- [Bridge_Swap](#bridge_swap)
-- [Security](#Security)
-- [Smart Contract](#Smart-Contract)
-  - [Solidity](#Solidity)
-  - [Libraries](#Libraries)
-  - [Articles](#articles)
-- [Tools](#tools)
-- [Sample Code](#Sample-Code)
-- [Boilerplate](#Boilerplate)
+# Awesome-web3
+- [Awesome-web3](#awesome-web3)
+  - [What is Web3?](#what-is-web3)
+  - [Wallet](#wallet)
+    - [Popular Wallets](#popular-wallets)
+    - [Articles - with Nextjs](#articles---with-nextjs)
+  - [Defi](#defi)
+  - [Bridge\_Swap](#bridge_swap)
+  - [Security](#security)
+    - [Auth](#auth)
+  - [Smart Contract](#smart-contract)
+    - [Solidity](#solidity)
+    - [Libraries](#libraries)
+    - [Articles](#articles)
+  - [Tools](#tools)
+  - [Sample Code](#sample-code)
+  - [Boilerplate](#boilerplate)
+- [Contributions Welcome!](#contributions-welcome)
+    - [Please follow these guidelines:](#please-follow-these-guidelines)
 
 ## What is Web3?
  - [Wikipedia - Web3](https://en.wikipedia.org/wiki/Web3)
