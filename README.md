@@ -1,25 +1,29 @@
-<p align="center">Awesome Web3-related technologies and useful links</p>
-<h2 align="center"><a href="#contributions-welcome">We welcome contributions from anyone!</a></h2> 
+# awesome-web3
 
-# Awesome-web3
-- [Awesome-web3](#awesome-web3)
-  - [What is Web3?](#what-is-web3)
-  - [Wallet](#wallet)
-    - [Popular Wallets](#popular-wallets)
-    - [Articles - with Nextjs](#articles---with-nextjs)
-  - [Defi](#defi)
-  - [Bridge\_Swap](#bridge_swap)
-  - [Security](#security)
-    - [Auth](#auth)
-  - [Smart Contract](#smart-contract)
-    - [Solidity](#solidity)
-    - [Libraries](#libraries)
-    - [Articles](#articles)
-  - [Tools](#tools)
-  - [Sample Code](#sample-code)
-  - [Boilerplate](#boilerplate)
+<p align="center">Awesome Web3-related technologies and useful links</p>
+<h2 align="center"><a href="#contributions-welcome">We welcome contributions from anyone!</h2>
+
+
+- [What is Web3?](#what-is-web3)
+- [Wallet](#Wallet)
+  - [Popular Wallets](#popular-wallets)
+  - [Article - with Nextjs](#articles---with-nextjs)
+- [Defi](#defi)
+- [Bridge_Swap](#bridge_swap)
+- [Security](#Security)
+- [Smart Contract](#Smart-Contract)
+  - [Solidity](#Solidity)
+  - [Libraries](#Libraries)
+  - [Articles](#articles)
+- [NFT](#nft)
+  - [ERC721](#erc721)
+  - [ERC1155](#erc1155)
+  - [Articles](#articles-1)
+- [SBT(SoulBound Token)](#sbtsoulbound-token)
+- [Tools](#tools)
+- [Sample Code](#Sample-Code)
+- [Boilerplate](#Boilerplate)
 - [Contributions Welcome!](#contributions-welcome)
-    - [Please follow these guidelines:](#please-follow-these-guidelines)
 
 ## What is Web3?
  - [Wikipedia - Web3](https://en.wikipedia.org/wiki/Web3)
@@ -69,12 +73,35 @@
 - [web3.js](https://github.com/ethereum/web3.js) - Web3.js is a TypeScript implementation of the Ethereum JSON RPC API and related tooling maintained by ChainSafe Systems.
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - A complete, compact and simple library for Ethereum and ilk, written in TypeScript.
 - [wagmi](https://github.com/tmm/wagmi) - We're all gonna make it! Reactive primitives for Ethereum apps. Wagmi supports the most popular and commonly-used Ethereum features out of the box with 40+ React Hooks for accounts, wallets, contracts, transactions, signing, ENS, and more.
+  - [react hooks](https://wagmi.sh/react/api/hooks) - useAccount, useBalance, useGasPrice, useTransaction, useSendTransaction, useWriteContract etc.
 - [web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [useDapp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable.
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - A super tiny module for querying an IPFS node, that works in the browser and in Node.
 
 ### Articles
 - [Technical Comparison: web3.js vs ethers.js](https://tatum.io/blog/web3-js-vs-ethers-js)
+
+## NFT
+### ERC721
+- [ERC-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) - A standard interface for non-fungible tokens, also known as deeds. eip document.
+- [ERC-721 NON-FUNGIBLE TOKEN STANDARD](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) - What is a Non-Fungible Token?
+- [ERC721 Openzeppelin](https://docs.openzeppelin.com/contracts/5.x/erc721) - Openzeppelin 5.x erc721
+- [ERC721Enumerable extension: What, how and why?](https://medium.com/@juanxaviervalverde/erc721enumerable-extension-what-how-and-why-8ba3532ea195) - The enumeration extension is OPTIONAL for ERC-721 smart contracts. This allows your contract to publish its full list of NFTs and make them discoverable.
+
+### ERC1155
+- [ERC-1155: Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155) - A standard interface for contracts that manage multiple token types. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens). eip document.
+- [ERC1155 Openzeppelin](https://docs.openzeppelin.com/contracts/5.x/erc1155) - Openzeppelin 5.x erc1155
+- [Alchemy: getNftsForOnwer](https://docs.alchemy.com/reference/getnftsforowner-v3) - Gets all NFTs currently owned by a given address.
+
+### Articles
+- [Mint your Own NFTs with Wagmi — A Beginner’s Guide.](https://medium.com/@donwaleyb/mint-your-own-nfts-with-wagmi-a-beginners-guide-6148f9ee324f)
+
+
+## SBT(SoulBound Token)
+- [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) - Vitalik Buterin's paper
+- [Soulbound Tokens(SBT): The easy guide](https://medium.com/metadium/soulbound-tokens-sbt-the-easy-guide-be198d51aa08) - we will learn what SBTs are and how they can be applied in our daily lives.
+- [SBTs 👻 | Soulbound Token Solidity Example](https://jamesbachini.com/souldbound-token/) - Soulbound tokens are non-transferable digital assets.
+  - github: [https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token)
 
 ## Tools
 
